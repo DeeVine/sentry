@@ -1,0 +1,15 @@
+{
+  "name": "sentrytesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sentry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^6.19.7",
+    "@sentry/tracing": "^6.19.7"
+  }
+}
